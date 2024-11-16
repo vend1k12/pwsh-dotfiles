@@ -32,7 +32,7 @@
 
 ## Установка зависимостей
 
-1. **oh-my-posh**: Установите `oh-my-posh` через [официальный сайт](https://ohmyposh.dev/docs/windows/installation) или через команду `winget install JanDeDobbeleer.OhMyPosh`.
+1. **oh-my-posh**: Установите `oh-my-posh` через [официальный сайт](https://ohmyposh.dev/docs/installation/windows) или через команду `winget install JanDeDobbeleer.OhMyPosh`.
 
 2. **Terminal-Icons**: Установите модуль `Terminal-Icons` через PowerShell:
 
